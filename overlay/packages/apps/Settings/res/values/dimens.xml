@@ -12,5 +12,11 @@
 -->
 
 <resources>
+<<<<<<< HEAD:overlay/packages/apps/Settings/res/values/dimens.xml
     <item name="fingerprint_sensor_location_fraction_y" type="fraction">73.91%</item>
 </resources>
+=======
+    <color name="switchbar_switch_track_tint">#82000000</color>
+    <color name="switchbar_switch_thumb_tint">@android:color/black</color>
+</resources>
+>>>>>>> 512e43a... Use BaikalOS Parts:parts/res/values-night/colors.xml
